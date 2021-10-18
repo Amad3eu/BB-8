@@ -1,6 +1,6 @@
 # 📡 BB-8 interactive!!
 
-<p> 
+<p align="center"> 
     <img src="img/Capturar.PNG" width="480">
 </p>
 
