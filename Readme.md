@@ -1,5 +1,7 @@
 # 📡 BB-8 interactive!!
 
+As I really like star wars, I decided to mix it with the programming and it was awesome!!🏆
+##
 <p align="center"> 
     <img src="img/Capturar.PNG" width="480">
 </p>
